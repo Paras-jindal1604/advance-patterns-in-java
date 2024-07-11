@@ -41,7 +41,7 @@ Here are a few examples of the patterns you can create using this repository:
 5. Butterfly pattern
 
    
-#### Contributing
+### Contributing
 Contributions are welcome! If you have any pattern-making problems or solutions that you would like to share, please follow these steps:
 
 
